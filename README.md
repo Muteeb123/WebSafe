@@ -24,7 +24,7 @@ WebSafe is a Chrome extension that helps users browse the web safely by analyzin
 <h2>Setup Instructions</h2>
 
 <h3>1. Clone the Repository</h3>
-<pre><code>git clone &lt;repository-url&gt;
+<pre><code>git clone https://github.com/Muteeb123/WebSafe
 cd websafe
 </code></pre>
 
